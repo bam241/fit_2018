@@ -6,7 +6,7 @@
   <xi:include href="fix_fac.xml" xpointer="xpointer(//My_include/*)"/>
   <xi:include href="recipe.xml" xpointer="xpointer(//My_include/*)"/>
   
-  <xi:include href="cycamore_fab.xml" xpointer="xpointer(//My_include/*)"/>
+  <xi:include href="mixer_fab.xml" xpointer="xpointer(//My_include/*)"/>
   <xi:include href="cyclass_reactor.xml" xpointer="xpointer(//My_include/*)"/>
 
 

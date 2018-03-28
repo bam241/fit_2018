@@ -16,5 +16,39 @@
         <nuclide> <id>pu242</id><comp>3.37</comp></nuclide>
         <nuclide> <id>am241</id><comp>0.77</comp></nuclide>
     </recipe>
+    <recipe>
+        <name>r_pu_1</name>
+        <basis>mass</basis>
+        <nuclide> <id>pu238</id><comp>3.12</comp></nuclide>
+        <nuclide> <id>pu239</id><comp>51.59</comp></nuclide>
+        <nuclide> <id>pu240</id><comp>24.32</comp></nuclide>
+        <nuclide> <id>pu241</id><comp>11.75</comp></nuclide>
+        <nuclide> <id>pu242</id><comp>8.04</comp></nuclide>
+        <nuclide> <id>am241</id><comp>1.18</comp></nuclide>
+    </recipe>
+    <recipe>
+        <name>r_pu_2</name>
+        <basis>mass</basis>
+        <nuclide> <id>pu238</id><comp>3.32</comp></nuclide>
+        <nuclide> <id>pu239</id><comp>45.01</comp></nuclide>
+        <nuclide> <id>pu240</id><comp>33.91</comp></nuclide>
+        <nuclide> <id>pu241</id><comp>4.54</comp></nuclide>
+        <nuclide> <id>pu242</id><comp>12.45</comp></nuclide>
+        <nuclide> <id>am241</id><comp>0.77</comp></nuclide>
+    </recipe>
+
+
+    <recipe>
+        <name>r_pu_3</name>
+        <basis>mass</basis>
+        <nuclide> <id>pu238</id><comp>4.00</comp></nuclide>
+        <nuclide> <id>pu239</id><comp>49.60</comp></nuclide>
+        <nuclide> <id>pu240</id><comp>24.76</comp></nuclide>
+        <nuclide> <id>pu241</id><comp>12.24</comp></nuclide>
+        <nuclide> <id>pu242</id><comp>9.40</comp></nuclide>
+        <nuclide> <id>am241</id><comp>0.78</comp></nuclide>
+    </recipe>
+
+
 
 </My_include>
