@@ -2,7 +2,7 @@
 
     <prototype>
         <name>sfr</name>
-        <lifetime>960</lifetime>
+        <lifetime>1300</lifetime>
         <config>
             <cyclassReactor>
                 <eq_model>EQM_1P</eq_model>
@@ -19,7 +19,7 @@
                 <cycle_time>76</cycle_time>
                 <refuel_time>0</refuel_time>
                 <batch_size>51953</batch_size>
-                <n_batch_core>3</n_batch_core>
+                <n_batch_core>1</n_batch_core>
                 
                 <power_cap>1000</power_cap>
                 <power>2250</power>

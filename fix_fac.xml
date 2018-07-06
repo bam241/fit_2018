@@ -15,7 +15,7 @@
         <config>
             <Source>
                 <outcommod>c_pu_src</outcommod>
-                <outrecipe>r_pu_3</outrecipe>
+                <outrecipe>r_pu_2</outrecipe>
                 <throughput>1e100</throughput>
             </Source>
         </config>
@@ -35,7 +35,7 @@
         <name>str_fuel</name>
         <config>
             <Storage>
-                <in_commods> <val>c_sfr_used</val></in_commods>
+                <in_commods> <val>c_sfr_fuel_used</val></in_commods>
                 <out_commods> <val>c_sfr_used_str</val></out_commods>
                 <residence_time>0</residence_time>
             </Storage>

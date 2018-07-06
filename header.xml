@@ -3,10 +3,10 @@
     <schematype>flat</schematype>
     <control>
         <!--<duration>2400</duration> -->
-        <duration>400</duration>
+        <duration>1200</duration>
         <startmonth>1</startmonth>
         <startyear>2000</startyear>
-        <decay>never</decay>
+        <decay>lazy</decay>
         <tolerance_resource>1e-5</tolerance_resource>
         <explicit_inventory>true</explicit_inventory>
     </control>
